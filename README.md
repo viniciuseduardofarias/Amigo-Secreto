@@ -27,15 +27,15 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Técnicas e Tecnologias Utilizadas](#tecnicas-e-tecnologias-utilizadas)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Acesso ao Projeto](#acesso-ao-projeto)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 # Descrição do projeto
 
-Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
+Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa Oracle Next Education (ONE) em parceria com a Alura. O projeto "Amigo Secreto" é um aplicativo web interativo que permite a criação e organização de sorteios de amigo secreto de forma simples e prática. Com ele, é possível adicionar participantes, realizar o sorteio de maneira justa e garantir que todos sejam escolhidos sem repetições antes que a lista seja completada. O objetivo do projeto é aplicar conceitos de lógica de programação, por meio do aprimoramento de habilidades em HTML, CSS e JavaScript.
 
 # :hammer: Funcionalidades
 
@@ -49,32 +49,6 @@ Este projeto foi desenvolvido como parte da conclusão da fase de seleção do p
 
 https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
-
-# 📁 Acesso ao Projeto
-Você pode acessar o código-fonte do projeto clicando no link abaixo:
-
-[👉 Jogo Amigo Secreto 🎁] (https://github.com/viniciuseduardofarias/Amigo-Secreto.git)
-
-## 🧠 Como Usar
-
-### Passo 1: Clone o repositório
-Clone o repositório no seu computador utilizando o Git:
-
-```bash
-git clone https://github.com/viniciuseduardofarias/Amigo-Secreto.git
-```
-
-### Passo 2: Acesse o diretório do projeto
-
-```bash
-cd amigo-secreto
-```
-
-### Passo 3: Abra o arquivo `index.html`
-Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jogar!
-
-Agora, seu Amigo Secreto está pronto para ser usado! 🎉
-
 # Técnicas e Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -83,6 +57,31 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * `CSS3 🎨`
 
 * `JavaScript 📜`
+
+# 🌍 Acesso ao Projeto
+Você pode acessar o código-fonte do projeto clicando no link abaixo:
+
+[👉 Jogo Amigo Secreto 🎁] (https://github.com/viniciuseduardofarias/Amigo-Secreto.git)
+
+# 🧠 Como Rodar a Aplicação
+
+## Passo 1: Clone o repositório
+Clone o repositório no seu computador utilizando o Git:
+
+```bash
+git clone https://github.com/viniciuseduardofarias/Amigo-Secreto.git
+```
+
+## Passo 2: Acesse o diretório do projeto
+
+```bash
+cd amigo-secreto
+```
+
+## Passo 3: Abra o arquivo `index.html`
+Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jogar!
+
+Agora, seu Amigo Secreto está pronto para ser usado! 🎉
 
 
 
