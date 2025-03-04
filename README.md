@@ -1,6 +1,6 @@
 <h1 align="center"> 🎁 Amigo-Secreto </h1>
 
-![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
+<p1 align="center">![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
 
 O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
