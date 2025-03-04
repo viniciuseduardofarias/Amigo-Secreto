@@ -17,9 +17,11 @@ Adicionar Participantes 📋
 Permite adicionar nomes à lista de participantes.
 
 
+
 Listagem de Nomes 📝
 
 Exibe todos os participantes adicionados.
+
 
 
 Sorteio Aleatório 🔄
@@ -27,6 +29,10 @@ Sorteio Aleatório 🔄
 Gera os pares de amigo secreto automaticamente.
 
 
+
 Evitar Repetições 🔄
 
 Garante que ninguém seja sorteado mais de uma vez antes que todos os participantes tenham um amigo secreto
+
+#🌍 Acesse o Projeto
+👉 Amigo Secreto (Insira o link para o projeto online, se aplicável.)
