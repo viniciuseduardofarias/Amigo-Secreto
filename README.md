@@ -20,6 +20,33 @@ O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo
 
 https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
+
+# 📁 Acesso ao Projeto
+Você pode acessar o código-fonte do projeto através do seguinte repositório no GitHub:
+
+🔗 Repositório no GitHub
+
+Para baixar o projeto, utilize o seguinte comando no seu terminal:
+
+git clone https://github.com/viniciuseduardofarias/Amigo-Secreto.git
+
+Se preferir, também pode fazer o download manualmente clicando em "Code" > "Download ZIP" no GitHub.
+
+# 🛠️ Abrir e Rodar o Projeto
+Para executar o projeto, siga estas etapas:
+
+`Acesse o diretório do projeto`:
+
+cd Amigo-Secreto
+
+`Abra o arquivo index.html no seu navegador`:
+
+* Caso esteja utilizando um sistema operacional com interface gráfica, basta dar um duplo clique no arquivo index.html.
+  
+* Se preferir, pode abrir com um servidor local (exemplo: Live Server no VSCode).
+
+Agora, seu Amigo Secreto está pronto para ser usado! 🎉
+
 # 🛠 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -29,22 +56,5 @@ CSS3 🎨
 
 JavaScript 📜
 
-# 🌍 Acesse o Projeto
-
-👉 Amigo Secreto (Insira o link para o projeto online, se aplicável.)
-
-Clone o repositório no seu computador utilizando o Git:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/amigo-secreto.git
-Passo 2: Acesse o Diretório do Projeto
-bash
-Copiar
-Editar
-cd amigo-secreto
-Passo 3: Execute o Projeto
-Basta abrir o arquivo index.html no seu navegador preferido para começar a jogar! 🎉
 
 
