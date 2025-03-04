@@ -1,8 +1,11 @@
 <h1 align="center"> 🎁 Amigo-Secreto </h1>
 
-<p1 align="center">![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
+![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
 
 O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
+
+![Badge Desenvolvido](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 # 🛠 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
