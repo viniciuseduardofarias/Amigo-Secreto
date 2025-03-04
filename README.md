@@ -93,11 +93,13 @@ cd amigo-secreto
 ## Passo 3: Abra o arquivo `index.html`
 Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jogar!
 
-Agora, seu Amigo Secreto está pronto para ser usado! 🎉
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=2000&pause=500&color=34D399&center=true&vCenter=true&width=435&lines=Jogo+Amigo+Secreto!+🎁;Divirta-se+sorteando+seu+amigo!" alt="Typing SVG" />
+  </a>
+</div>
 
-# Autor
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Vinicius Eduardo</sub>](https://github.com/viniciuseduardofarias)
 
 
 
