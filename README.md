@@ -2,8 +2,6 @@
 
 ![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
 
-Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
-
 <h4 align="center"> 
     :construction:  Projeto concluído  :construction:
 </h4>
@@ -20,6 +18,9 @@ Este projeto foi desenvolvido como parte da conclusão da fase de seleção do p
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
+# Descrição do projeto
+
+Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
 # :hammer: Funcionalidades do projeto
 
