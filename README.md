@@ -4,9 +4,11 @@
 
 O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
-<p align="center">
-<img loading="lazy" src="https://img.shields.io/badge/desenvolvido"/>
-</p>
+<h4 align="center"> 
+    :construction:  Projeto concluído  :construction:
+</h4>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
 # 🛠 Tecnologias
