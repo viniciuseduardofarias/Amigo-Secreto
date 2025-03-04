@@ -2,11 +2,24 @@
 
 ![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
 
-O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
+Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
 <h4 align="center"> 
     :construction:  Projeto concluído  :construction:
 </h4>
+
+# Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
 
 # :hammer: Funcionalidades do projeto
 
@@ -47,14 +60,14 @@ cd Amigo-Secreto
 
 Agora, seu Amigo Secreto está pronto para ser usado! 🎉
 
-# 🛠 Tecnologias
+# Técnicas e Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML5 🌐
+* `HTML5 🌐`
 
-CSS3 🎨
+* `CSS3 🎨`
 
-JavaScript 📜
+* `JavaScript 📜`
 
 
 
