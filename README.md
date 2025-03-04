@@ -96,7 +96,8 @@ Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jo
 Agora, seu Amigo Secreto está pronto para ser usado! 🎉
 
 # Autor
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Vinicius Eduardo Farias Silva</sub>](https://github.com/viniciuseduardofarias)
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Vinicius Eduardo</sub>](https://github.com/viniciuseduardofarias)
 
 
 
