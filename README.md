@@ -18,7 +18,7 @@ O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo
 
 `Evitar Repetições ❌`: Garante que ninguém seja sorteado mais de uma vez antes que todos os participantes tenham um amigo secreto
 
-(https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508)
+https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
 # 🛠 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
