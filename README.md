@@ -16,13 +16,6 @@
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vinicius-eduardo-farmacia/overlay/contact-info/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>
-
-
-<h1 align="center"> 🎁 Amigo-Secreto </h1>
-
-![Capa_Amigo Secreto](https://github.com/user-attachments/assets/8d134c30-7929-43e5-b3f8-938f43a4c2b7)
 
 <h4 align="center"> 
     :construction:  Projeto concluído  :construction:
