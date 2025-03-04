@@ -20,6 +20,22 @@ Sorteio Aleatório 🔄: Gera os pares de amigo secreto automaticamente.
 
 Evitar Repetições 🔄: Garante que ninguém seja sorteado mais de uma vez antes que todos os participantes tenham um amigo secreto
 
-# Acesse o Projeto
+# 🌍 Acesse o Projeto
 
 👉 Amigo Secreto (Insira o link para o projeto online, se aplicável.)
+
+Clone o repositório no seu computador utilizando o Git:
+
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/amigo-secreto.git
+Passo 2: Acesse o Diretório do Projeto
+bash
+Copiar
+Editar
+cd amigo-secreto
+Passo 3: Execute o Projeto
+Basta abrir o arquivo index.html no seu navegador preferido para começar a jogar! 🎉
+
+
