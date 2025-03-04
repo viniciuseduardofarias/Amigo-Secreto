@@ -5,7 +5,9 @@ O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML5 🌐
+
 CSS3 🎨
+
 JavaScript 📜
 
 # ✨ Funcionalidades
