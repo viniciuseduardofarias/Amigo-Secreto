@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
 ---
 
-# Técnicas e Tecnologias Utilizadas
+# ✅ Técnicas e Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 * `HTML5 🌐`
@@ -94,6 +94,9 @@ cd amigo-secreto
 Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jogar!
 
 Agora, seu Amigo Secreto está pronto para ser usado! 🎉
+
+# Autor
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Vinicius Eduardo Farias Silva</sub>](https://github.com/viniciuseduardofarias)
 
 
 
