@@ -21,6 +21,8 @@
     :construction:  Projeto concluído  :construction:
 </h4>
 
+---
+
 # Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -33,9 +35,13 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
+---
+
 # Descrição do projeto
 
 Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa Oracle Next Education (ONE) em parceria com a Alura. O projeto "Amigo Secreto" é um aplicativo web interativo que permite a criação e organização de sorteios de amigo secreto de forma simples e prática. Com ele, é possível adicionar participantes, realizar o sorteio de maneira justa e garantir que todos sejam escolhidos sem repetições antes que a lista seja completada. O objetivo do projeto é aplicar conceitos de lógica de programação, por meio do aprimoramento de habilidades em HTML, CSS e JavaScript.
+
+---
 
 # :hammer: Funcionalidades
 
@@ -49,6 +55,8 @@ Este projeto foi desenvolvido como parte da conclusão da fase de seleção do p
 
 https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
+---
+
 # Técnicas e Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -58,10 +66,14 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 * `JavaScript 📜`
 
+---
+
 # 🌍 Acesso ao Projeto
 Você pode acessar o código-fonte do projeto clicando no link abaixo:
 
-[👉 Jogo Amigo Secreto 🎁] (https://github.com/viniciuseduardofarias/Amigo-Secreto.git)
+[👉 Jogo Amigo Secreto 🎁](https://github.com/viniciuseduardofarias/Amigo-Secreto.git)
+
+---
 
 # 🧠 Como Rodar a Aplicação
 
