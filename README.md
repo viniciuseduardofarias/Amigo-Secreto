@@ -8,7 +8,7 @@ O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo
     :construction:  Projeto concluído  :construction:
 </h4>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 
 
 # 🛠 Tecnologias
@@ -20,15 +20,15 @@ CSS3 🎨
 
 JavaScript 📜
 
-# ✨ Funcionalidades
+# :hammer: Funcionalidades do projeto
 
-Adicionar Participantes 📋: Permite adicionar nomes à lista de participantes.
+`Adicionar Participantes 📋`: Permite adicionar nomes à lista de participantes.
 
-Listagem de Nomes 📝: Exibe todos os participantes adicionados.
+`Listagem de Nomes 📝`: Exibe todos os participantes adicionados.
 
-Sorteio Aleatório 🔄: Gera os pares de amigo secreto automaticamente.
+`Sorteio Aleatório 🔄`: Gera os pares de amigo secreto automaticamente.
 
-Evitar Repetições ❌: Garante que ninguém seja sorteado mais de uma vez antes que todos os participantes tenham um amigo secreto
+`Evitar Repetições ❌`: Garante que ninguém seja sorteado mais de uma vez antes que todos os participantes tenham um amigo secreto
 
 # 🌍 Acesse o Projeto
 
