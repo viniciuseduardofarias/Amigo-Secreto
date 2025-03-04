@@ -4,10 +4,8 @@
 
 O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
-![Badge Desenvolvido](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/desenvolvido"/>
 </p>
 
 
