@@ -37,7 +37,7 @@
 
 Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. O Amigo Secreto é um aplicativo web interativo para organizar sorteios de amigo secreto de forma fácil e divertida! Com ele, você pode adicionar participantes, realizar o sorteio de forma aleatória e visualizar o amigo secreto de cada um.
 
-# :hammer: Funcionalidades do projeto
+# :hammer: Funcionalidades
 
 `Adicionar Participantes 📋`: Permite adicionar nomes à lista de participantes.
 
@@ -51,28 +51,27 @@ https://github.com/user-attachments/assets/5fd489df-6ee3-474c-83ec-aaff7760b508
 
 
 # 📁 Acesso ao Projeto
-Você pode acessar o código-fonte do projeto através do seguinte repositório no GitHub:
+Você pode acessar o código-fonte do projeto clicando no link abaixo:
 
-🔗 Repositório no GitHub
+[👉 Jogo Amigo Secreto 🎁] (https://github.com/viniciuseduardofarias/Amigo-Secreto.git)
 
-Para baixar o projeto, utilize o seguinte comando no seu terminal:
+## 🧠 Como Usar
 
+### Passo 1: Clone o repositório
+Clone o repositório no seu computador utilizando o Git:
+
+```bash
 git clone https://github.com/viniciuseduardofarias/Amigo-Secreto.git
+```
 
-Se preferir, também pode fazer o download manualmente clicando em "Code" > "Download ZIP" no GitHub.
+### Passo 2: Acesse o diretório do projeto
 
-# 🛠️ Abrir e Rodar o Projeto
-Para executar o projeto, siga estas etapas:
+```bash
+cd amigo-secreto
+```
 
-`Acesse o diretório do projeto`:
-
-cd Amigo-Secreto
-
-`Abra o arquivo index.html no seu navegador`:
-
-* Caso esteja utilizando um sistema operacional com interface gráfica, basta dar um duplo clique no arquivo index.html.
-  
-* Se preferir, pode abrir com um servidor local (exemplo: Live Server no VSCode).
+### Passo 3: Abra o arquivo `index.html`
+Basta abrir o arquivo `index.html` no seu navegador preferido para começar a jogar!
 
 Agora, seu Amigo Secreto está pronto para ser usado! 🎉
 
